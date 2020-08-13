@@ -7,3 +7,6 @@ Example script for filtering **historical tweets** (maximum 7-days old posts) by
 
 ## Tweepy Stream object
 Example script for filtering real-time tweets by location and keywords. [Here](https://github.com/Tars4815/geotweets/blob/master/doublefilter.py)
+
+### Extra: JSON conversion
+Script for converting JSON to CSV
